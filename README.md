@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MaRaKiK
-- 🌱 I’m currently learning more about UI/UX Design, Front-End Development and Digital Marketing 
+- 👋 Hi, I’m @MaRaKiK 
 
 <!---
 MaRaKiK/MaRaKiK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
