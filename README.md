@@ -1,4 +1,4 @@
-<!---
+
 ## 👋 Welcome to My GitHub Profile!
 
 🎓 Graduate in Computer Science and Biomedical Informatics from the University of Thessaly.  
@@ -10,4 +10,3 @@
 🔹 Always eager to explore new technologies and solve real-world problems.  
 
 🚀 Check out my projects and feel free to connect!
---->
